@@ -1,0 +1,16 @@
+[
+  {
+    "id": "unique_video_id_1",
+    "title": "Trailer",
+    "thumbnailUrl": "https://i.ytimg.com/an_webp/Qh7fEYtcCFA/mqdefault_6s.webp?du=3000&sqp=CKDPl8gG&rs=AOn4CLBygSVTA_ieAglla96dN48_xaHrQA",
+    "videoUrl": "https://youtu.be/Qh7fEYtcCFA?si=IfG7HyhpTgnDWB9Y",
+    "description": "A brief but informative description of what the video is about."
+  },
+  {
+    "id": "unique_video_id_2",
+    "title": "Another Video Title",
+    "thumbnailUrl": "https://url.to.your/another-thumbnail.png",
+    "videoUrl": "https://url.to.your/direct-video-file.mp4",
+    "description": "This one can be a direct video link or another YouTube video."
+  }
+]
